@@ -1,0 +1,35 @@
+---
+title: "Plant evolution & taxonomy"
+subtitle: |
+  | Teaching Biodiversity Short Course
+  | for FET Life Sciences Teachers
+author: "Ruan van Mazijk"
+date: "`r Sys.Date()`"
+# FIXME:
+#mainfont: Helvetica  # for PDF
+---
+
+# The diversity of (plant) life
+
+# The Tree of Life
+
+Understanding where it branches
+
+# The history of life
+
+Telling the stories on the Tree's branches
+
+# Old-timey taxonomy: Linnaeus
+
+- Pre-evolutionary views
+- Classification based on sexual parts
+- A lot of Linnaeus' _Systema Naturae_ & _Systema Plantarum_ didn't hold up to modern scientific evidence...
+
+# Old-timey taxonomy: Linnaeus cont.
+
+But, he gave us 2x amazing (& simple!) things:
+
+- Hierarchical classification
+- Binomial nomenclature
+
+# Modern-day molecular phylogenetics
