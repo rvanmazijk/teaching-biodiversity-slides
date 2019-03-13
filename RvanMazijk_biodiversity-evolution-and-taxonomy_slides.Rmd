@@ -7,6 +7,7 @@ author: "Ruan van Mazijk"
 date: "`r Sys.Date()`"
 # FIXME:
 #mainfont: Helvetica  # for PDF
+# TODO: add Powerpoint coverslide manually
 ---
 
 # The diversity of (plant) life
