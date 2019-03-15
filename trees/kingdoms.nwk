@@ -1,0 +1,10 @@
+(
+	Plants,
+	(
+		"Protists",
+		(
+			Fungi,
+			Animals
+		)
+	)
+)Eukaryotes;

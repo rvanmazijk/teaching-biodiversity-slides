@@ -1,0 +1,22 @@
+(
+	Cnidarians,
+	(
+		Plathelminthes,
+		(
+			(
+				Annelids,
+				Molluscs
+			),
+			(
+				(
+					Nematodes,
+					Arthropods
+				),
+				(
+					Echinoderms,
+					Chordates
+				)
+			)
+		)
+	)
+)Animals;
