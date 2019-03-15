@@ -10,7 +10,7 @@ date: "`r Sys.Date()`"
 # TODO: add Powerpoint coverslide manually
 ---
 
-# The diversity of (plant) life
+# The diversity of life
 
 <!-- TODO -->
 
