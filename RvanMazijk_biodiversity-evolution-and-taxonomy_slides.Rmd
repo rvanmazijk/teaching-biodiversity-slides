@@ -1,5 +1,5 @@
 ---
-title: "Plant evolution & taxonomy"
+title: "Biodiversity, evolution & taxonomy"
 subtitle: |
   | Teaching Biodiversity Short Course
   | for FET Life Sciences Teachers
