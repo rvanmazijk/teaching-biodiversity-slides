@@ -10,17 +10,25 @@ date: "`r Sys.Date()`"
 # TODO: add Powerpoint coverslide manually
 ---
 
-# The diversity of life
-
-<!-- TODO -->
+<!-- TODO: "diversity of life" collage -->
 
 # The Tree of Life
 
-Understanding where it branches
+- Discovering all its branches
+- Understanding how those branches link together/where they are
 
-# The history of life
+# Why study life's diversity?
 
-Telling the stories on the Tree's branches
+- For its own sake
+- For the benefit of society
+- For medicines, materials & food
+
+# Taxonomy
+
+> The science of **classifying** & **naming** living organisms
+
+- Foundation of all other life sciences
+- Can't get much done if you don't know what something is...
 
 # Old-timey taxonomy: Linnaeus
 
@@ -35,4 +43,59 @@ But, he gave us 2x amazing (& simple!) things:
 - Hierarchical classification
 - Binomial nomenclature
 
-# Modern-day molecular phylogenetics
+# Naming things: Nomenclature
+
+# Classifying things: Hierarchies
+
+- (Domain)
+- Kingdom
+- Phylum
+- Class
+- Order
+- Family
+- Genus
+- Species
+
+# The domains
+
+![The 2x prokaryotic & 1x eukaryotic domains of the Tree of Life](trees/domains.png)
+
+# Proakryotes (simple life)
+
+![The bacteria species _E. coli_](images/EscherichiaColi-NIAID_Public-Domain.jpg)
+
+# Proakryotes (simple life) cont.
+
+![An extremophilic archaean](images/Halobacteria_Public-Domain.jpg)
+
+# Eukaryotes (having a "true cell nucleus")
+
+![The Kingdoms^[Protists are mostly algal micro-organisms that are neither plants, fungi nor animals] of eukaryotic life](trees/kingdoms.png)
+
+# Protists: the "dust-bin" kingdom
+
+![](images/Protist-collage-2_CC-BY-SA-4.0.jpg)
+
+# Fungi: $\frac{1}{2}$ animal & $\frac{1}{2}$ plant
+
+![](images/Fungi-collage_CC-BY-SA-2.5_BorgQueen.jpg)
+
+# Animals---both big & small
+
+![](images/Animal-diversity_CC-BY-SA-3.0_Medeis.png)
+
+# Animal phyla
+
+![](trees/animal-phyla.png)
+
+<!-- TODO: cont. -->
+
+# Plants
+
+![](images/Diversity-of-plants-image-version-5_2009-04-03_CC-BY-SA-4.0_Rkitko.png)
+
+# Major plant groups
+
+![](trees/plant-groups.png)
+
+<!-- TODO: cont. -->
