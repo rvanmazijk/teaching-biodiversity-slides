@@ -4,13 +4,7 @@
 		"Pteridophytes",
 		(
 			Gymnosperms,
-			(
-				Palaeo-dicots,
-				(
-					Monocots,
-					Eudicots
-				)
-			)Angiosperms
-		)Spermatophytes
-	)Tracheophytes
+			Angiosperms
+		)
+	)
 )Plants;

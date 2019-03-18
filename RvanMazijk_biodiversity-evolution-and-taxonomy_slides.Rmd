@@ -5,17 +5,16 @@ subtitle: |
   | for FET Life Sciences Teachers
 author: "Ruan van Mazijk"
 date: "`r Sys.Date()`"
-# FIXME:
-#mainfont: Helvetica  # for PDF
+mainfont: Arial  # for PDF
 # TODO: add Powerpoint coverslide manually
 ---
 
-<!-- TODO: "diversity of life" collage -->
+![Ernst Haeckel's Tree of Life](images/Tree-of-Life_Haeckel_Public-Domain.jpg){ width="5cm" }
 
 # The Tree of Life
 
 - Discovering all its branches
-- Understanding how those branches link together/where they are
+- Understanding how those branches link together
 
 # Why study life's diversity?
 
@@ -25,18 +24,22 @@ date: "`r Sys.Date()`"
 
 # Taxonomy
 
-> The science of **classifying** & **naming** living organisms
+> The science of **classifying** & **naming** organisms
 
 - Foundation of all other life sciences
-- Can't get much done if you don't know what something is...
+- Can't do much without knowing what something is...
 
 # Old-timey taxonomy: Linnaeus
 
-- Pre-evolutionary views
-- Classification based on sexual parts
-- A lot of Linnaeus' _Systema Naturae_ & _Systema Plantarum_ didn't hold up to modern scientific evidence...
+![Carl von Linné](images/Carl-von-Linne_1707-1778_by-Alexander-Roslin_Nationalmuseum_Public-Domain.jpg){ width="5cm" }
 
 # Old-timey taxonomy: Linnaeus cont.
+
+- Pre-evolutionary
+- Classification based on sexual parts for plants ($\checkmark$)
+- A lot of Linnaeus' _Systema Naturae_ & _Systema Plantarum_ didn't hold up to modern scientific evidence...
+
+***
 
 But, he gave us 2x amazing (& simple!) things:
 
@@ -45,16 +48,34 @@ But, he gave us 2x amazing (& simple!) things:
 
 # Naming things: Nomenclature
 
+- A unique name for every species
+- Common-names led to confusion... 
+
+***
+
+![One of many plant species Linnaeus re-named](images/411px-Plantago-media_CC-BY-SA-3.0.jpg){ width="5cm" }
+
+***
+
+\center
+
+_Plantago foliis ovato-lanceolatus pubescentibus, spica cylindrica, scapo tereti_
+
+(= "plantain with pubescent ovate-lanceolate leaves, a cylindrical spike and a terete scape")
+
+\pause
+
+$\rightarrow$
+
+_Plantago media_
+
+***
+
+![A mallard](images/1024px-Mallard2_CC-BY-SA-3.0.jpg){ width="8cm" }
+
 # Classifying things: Hierarchies
 
-- (Domain)
-- Kingdom
-- Phylum
-- Class
-- Order
-- Family
-- Genus
-- Species
+![](images/1280px-Taxonomic-Rank-Graph_CC-BY-SA-4.0_Annina-Breen.png)
 
 # The domains
 
@@ -62,7 +83,7 @@ But, he gave us 2x amazing (& simple!) things:
 
 # Proakryotes (simple life)
 
-![The bacteria species _E. coli_](images/EscherichiaColi-NIAID_Public-Domain.jpg)
+![The bacteria species _E. coli_](images/EscherichiaColi-NIAID_Public-Domain.jpg){ width="8cm" }
 
 # Proakryotes (simple life) cont.
 
@@ -72,30 +93,131 @@ But, he gave us 2x amazing (& simple!) things:
 
 ![The Kingdoms^[Protists are mostly algal micro-organisms that are neither plants, fungi nor animals] of eukaryotic life](trees/kingdoms.png)
 
-# Protists: the "dust-bin" kingdom
+# Kingdom Protista
 
-![](images/Protist-collage-2_CC-BY-SA-4.0.jpg)
+![Protists are the "dust-bin" kingdom](images/Protist-collage-2_CC-BY-SA-4.0.jpg){ width="5cm" }
 
-# Fungi: $\frac{1}{2}$ animal & $\frac{1}{2}$ plant
+# Kingdom Fungi
 
-![](images/Fungi-collage_CC-BY-SA-2.5_BorgQueen.jpg)
+![Half animal, half plant](images/Fungi-collage_CC-BY-SA-2.5_BorgQueen.jpg){ width="6cm" }
 
-# Animals---both big & small
+# Kingdom \textcolor{red}{Animalia}
 
-![](images/Animal-diversity_CC-BY-SA-3.0_Medeis.png)
+![Animals both big & small](images/Animal-diversity_CC-BY-SA-3.0_Medeis.png){ width="4cm" }
 
-# Animal phyla
+# \textcolor{red}{Animal} phyla
 
-![](trees/animal-phyla.png)
+> A range of **body-plans** among animals
 
-<!-- TODO: cont. -->
+> More-or-less **increasing complexity**
 
-# Plants
+- Porifera
+- Cnidaria
+- Platyhelminthes
+- Annelida
+- Mollusca
+- Nematoda
+- Arthropoda
+- Echinodermata
+- Chordata
 
-![](images/Diversity-of-plants-image-version-5_2009-04-03_CC-BY-SA-4.0_Rkitko.png)
+# Phylum Porifera
+
+- Sea-sponges
+- Colonial vs true organism?
+
+![](images/1024px-Reef3859-Flickr-NOAA-Photo-Library_compressed_Public-Domain.jpg)
+
+# Phylum Cnidaria
+
+Unique stinging cells "cnidocytes"!
+
+![](images/1024px-Sea-Nettle-Jelly-1_CC-BY-SA-3.0_Fred-Hsu.jpg){ width="5cm"}
+\hfill
+![](images/Striped-colonial-anemone_CC-BY-SA-3.0_Nhobgood.jpg){ width="5cm" }
+
+***
+
+![A coral reef...](images/Coral-Outcrop-Flynn-Reef_CC-BY-SA-3.0_Toby-Hudson.jpg)
+
+***
+
+![... made by coral polyps](images/1024px-Montastrea-cavernosa_Public-Domain.jpg){ width="8cm" }
+
+# Phylum Platyhelminthes
+
+- Flatworms
+- Some parasitic
+
+![A marine flatworm](images/Turbellarian-Pseudoceros-dimidiatus_CC-BY-SA-2.0_Richard-Ling.jpg){ width="7cm" }
+
+# Phylum Annelida
+
+- Worms II: the Sequel
+- Segmented-worms
+
+![An earthworm](images/Regenwurm1_CC-BY-SA-3.0_Michael-Linnenbach.jpg){ width="5cm" }
+
+# Phylum Mollusca
+
+- All have a "mantel", often in a shell
+- Some of the most intelligent invertabrates!
+
+![](images/Grapevinesnail-01_CC-BY-SA-3.0_Jurgen-Schoner.jpg){width="3cm" }
+\hfill
+![](images/800px-Octopus3_CC-BY-SA-3.0_albert-kok.jpg){ width="3cm" }
+\hfill
+![](images/Clams-on-Sandy-Hook-beaches-panoramio_CC-BY-SA-3.0_febb.jpg){ width="3cm" }
+
+# Phylum Nematoda
+
+- Worms III: the Revenge
+- Roundwords
+- Found _everywhere_
+- Taxonomically challenging...
+
+![They all look kind of like this](images/CelegansGoldsteinLabUNC_CC-BY-SA-3.0_Bob-Goldstein.jpg){ width="4cm" }
+
+# Phylum Arthropoda
+
+- "Jointed legs"
+- Incredibly diverse
+
+![](images/Coleoptera_SMNK_CC-BY-SA-3.0_H-Zell.jpg){ width="2.5cm" }
+\hfill
+![](images/1024px-Ocypode-quadrata_Martinique_Copyrighted-Free-Use_Patrick-Verdier.jpg){ width="3.5cm" }
+\hfill
+![](images/Theraphosa-blondi_MHNT_CC-BY-SA-4.0_Didier-Descouens.jpg){ width="2.5cm" }
+
+# Phylum Echinodermata
+
+- Sea-stars & sea-cucumbers
+- Five-way symmetry
+
+![](images/Starfish_Caswell-Bay_geograph.org.uk_409413_CC-BY-SA-2.0_Pam-Brophy.jpg){ width="5cm" }
+\hfill
+![](images/800px-Thelenota-ananas_CC-BY-SA-2.0_Leonard-Low.jpg){ width="5cm" }
+
+# Phylum Chordata
+
+![Vertebrates!](images/Vertebrates_CC-BY-SA-3.0.png){ width="5cm" }
+
+***
+
+![](trees/kingdoms.png)
+
+# Kingdom \textcolor{green}{Plantae}
+
+![The green foundation of life on land](images/Diversity-of-plants-image-version-5_2009-04-03_CC-BY-SA-4.0_Rkitko.png){ width="5cm" }
 
 # Major plant groups
 
 ![](trees/plant-groups.png)
 
-<!-- TODO: cont. -->
+***
+
+\center
+
+Over to Dunja...
+
+Thank you!

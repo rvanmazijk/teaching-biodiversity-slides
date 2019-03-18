@@ -17,13 +17,20 @@ plot_tree <- function(filename) {
   tree <- read.tree(filename)
   open_png_for_tree(filename, tree)
   plot(tree,
-    type = "cladogram", direction = "upwards",
-    edge.width = 2,
+    # Plot-window settings
     x.lim = c(0.5, Ntip(tree) + 0.5),
     y.lim = c(0, Nnode(tree) + 0.5),
     no.margin = TRUE,
+    # Tree settings
+    type = "cladogram",
+    direction = "upwards",
+    # Edge settings
+    edge.width = 2,
+    # Label settings
     show.node.label = TRUE,
-    srt = -90, adj = 0.25, label.offset = 0.25
+    srt = -90,
+    adj = 0.25,
+    label.offset = 0.25
   )
   dev.off()
 }
